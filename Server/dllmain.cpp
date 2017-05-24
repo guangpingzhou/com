@@ -1,4 +1,11 @@
 // dllmain.cpp : 定义 DLL 应用程序的入口点。
+/*
+http://blog.csdn.net/wxtsmart/article/details/2988904
+http://blog.csdn.net/woshinia/article/details/22300089
+http://blog.csdn.net/henry000/article/details/7008397
+http://blog.csdn.net/wxtsmart/article/details/2988904
+*/
+
 #include "stdafx.h"
 #include "math.h"
 
